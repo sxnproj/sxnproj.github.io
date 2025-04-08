@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, and welcome to my website. This is a project I wanted to undertake as having my own personal website seemed to be a cool thing to have as well as a way to learn about making and deploying a website, something that has intrigued me for awhile. My interest in computers has taken me around software and hardware spaces with particular interest in RTL design and verification for FPGAs and ASICS.
+Hello, and welcome to my website. I am a computer engineer who has a focus on computer and hardware design, my passion and focus is on RTL design and verification for ASICs and FPGAs.
 
 Currently I am conducting research and finishing my Masters thesis which you can read about in my projects.
 
